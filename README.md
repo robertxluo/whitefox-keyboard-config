@@ -2,4 +2,6 @@
 
 This is my configration for the Whitefox keyboard (Vanilla layout).
 
-![Vanilla Layout](https://i.imgur.com/T46jI8h.png)
+![Base Layout](https://i.imgur.com/G0oSi05.png)
+
+![Layer 3 Layout](https://i.imgur.com/Cf1Bs15.png)
