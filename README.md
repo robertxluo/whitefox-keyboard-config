@@ -18,7 +18,7 @@ This is my configration for the Whitefox keyboard (Vanilla layout).
 * `f1 + HOME` for Page Up
 * `f1 + END` for Page Down
 * `f2 + [` for volume down
-* `f2 + ]` for volume down
+* `f2 + ]` for volume up
 * `f2 + p` for mute toggle
 * `f2 + 0` for LED off
 * `f2 + -` for LED-
