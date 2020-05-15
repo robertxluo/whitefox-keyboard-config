@@ -15,8 +15,8 @@ This is my configration for the Whitefox keyboard (Vanilla layout).
 
 * `f1 + LALT` for Windows key
 * `f1 + M` or `f2 + M` to toggle macOS layout
-* `f1 + PGUP` for Page Up
-* `f1 + PGDN` for Page Down
+* `f1 + HOME` for Page Up
+* `f1 + END` for Page Down
 * `f2 + [` for volume down
 * `f2 + ]` for volume down
 * `f2 + p` for mute toggle
